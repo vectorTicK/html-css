@@ -11,4 +11,4 @@
 
 功能需求：
 
-![list](https://github.com/vectorTicK/html-css/blob/master/img/list1.png)
+![list](https://github.com/vectorTicK/html-css/blob/master/img/list1.PNG)
