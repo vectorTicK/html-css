@@ -18,3 +18,9 @@
 功能需求：
 
 ![list](img/list2.PNG)
+
+4. 标签选择练习3
+
+功能需求：
+
+![list](img/list3.PNG)
