@@ -5,10 +5,16 @@
 
 >盒模型属性 浮动 清除浮动
 
-![布局1](https://github.com/vectorTicK/html-css/blob/master/img/layout1.PNG)
+![布局1](img/layout1.PNG)
 
 2. 标签选择练习1
 
 功能需求：
 
-![list](https://github.com/vectorTicK/html-css/blob/master/img/list1.PNG)
+![list](img/list1.PNG)
+
+3. 标签选择练习2
+
+功能需求：
+
+![list](img/list2.PNG)
