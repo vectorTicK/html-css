@@ -5,10 +5,10 @@
 
 >盒模型属性 浮动 清除浮动
 
-![布局1](./img/layout1.png)
+![布局1](html-css/img/dot.png)
 
 2. 标签选择练习1
 
 功能需求：
 
-![布局1](./img/list1.png)
+![布局1](html-css/img/list1.png)
