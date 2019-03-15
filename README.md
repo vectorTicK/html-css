@@ -56,3 +56,13 @@
 ![效果](img/exercise6-1.PNG)
 
 实现：position.html
+
+7. 1个完整网页布局实践
+
+功能需求：
+
+![功能需求](img/exercise7.PNG)
+
+实现：
+
+page.html

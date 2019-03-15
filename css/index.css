@@ -1,0 +1,220 @@
+.header {
+    border-top: 7px solid #345;
+}
+
+.header-con {
+    margin: 0 auto;
+    width: 970px;
+    height: 109px;
+}
+
+.header-con h1 {
+    float: left;
+    width: 500px;
+    height: 100%;
+    line-height: 109px;
+}
+
+.header-con a {
+    display: block;
+    height: 109px;
+    padding-left: 93px;
+    font-size: 32px;
+    background: url('../img/page/bac.png') 0 0 no-repeat; 
+}
+
+.header-con span {
+    float: right;
+    height: 109px;
+    width: 93px;
+    background: url('../img/page/bac.png') 0 -109px no-repeat; 
+}
+
+.nav {
+    margin: 0 auto 20px;
+    width: 970px;
+    height: 44px;
+    background-color: #3399FE;
+}
+
+.nav a {
+    float: left;
+    height: 100%;
+    line-height: 44px;
+    width: 16.6%;
+    text-align: center; 
+    color: #fff;
+}
+
+.big-pic {
+    margin: 0 auto 30px;
+    width: 970px;
+    height: 270px;
+    background: url('../img/page/banner1.jpg');
+}
+
+.con {
+    margin: 0 auto 30px;
+    width: 970px;
+    height: 774px;
+}
+
+.con .con-left {
+    float: left;
+    width: 648px;
+    height: 774px;
+}
+
+.con .con-left h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.con .con-left dl {
+    height: 219px;
+    padding-top: 30px;
+    border-top: 1px solid #ccc;
+    
+}
+.con .con-left dt {
+    float: right;
+    width: 170px;
+    height: 170px;
+    
+}
+.con .con-left dd {
+    float: left;
+    width: 460px;
+}
+
+.con .con-left dd h3 {
+    height: 40px;
+    font-size: 1.75em;
+    line-height: 40px;
+    color: #3399FE;
+}
+.con .con-left dd h3 a{
+    color: #3399FE;
+}
+.con .con-left dd .date {
+    color: #ccc;
+    margin-bottom: 10px;
+}
+.con .con-left dd .des {
+
+    font-size: 1.2em;
+    line-height: 1.75;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+h4 a{
+    font-size: 1.2em;
+    color: #3399FE;
+}
+.con .con-left dd h3 a:hover,
+h4 a:hover{
+    text-decoration: underline;
+}
+
+dt img {
+    border-radius: 50%;
+}
+
+
+
+.con .con-right {
+    float: right;
+    width: 262px;
+    height: 774px;
+}
+
+.con .con-right .video-pic {
+    display: block;
+    margin-top: 40px;
+    width: 262px;
+    height: 135px;
+    background: url('../img/page/video.jpg')
+}
+
+.friendlink a {
+    display: block;
+    width: 262px;
+    height: 81px;
+    margin: 15px 0;
+    border: 1px solid #ccc;
+    text-align: center;
+    line-height: 81px;
+}
+
+.tabcon-box {
+    margin: 0 auto 30px;
+    width: 990px;
+    height: 310px;
+}
+
+.tabcon li {
+    width: 302px;
+    float: left;
+    margin-right: 42px;
+    
+
+}
+.tabcon li h4 {
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    font-size: 1.25em;
+}
+.tabcon li img {
+    box-shadow: 2px 4px 6px 1px rgba(50,50,50,0.14);
+    margin-bottom: 10px;
+}
+.tabcon li div {
+box-shadow: 2px 4px 6px 1px rgba(50,50,50,0.14);
+padding: 10px;
+}
+
+.tabcon li div p {
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
+.tabcon li div h4 {
+    text-align: left;
+    margin: 0;
+}
+.tabcon li:last-child {
+    margin-right: 0;
+}
+.footer {
+    margin: 0 auto;
+    height: 165px;
+    background-color: #3399FE;
+}
+
+.footer .footer-box {
+    margin: 0 auto;
+    width: 990px;
+    height: 165px;
+    background-color: #3399FE;
+}
+
+.footer-box p {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    color: #fff;
+}
+
+.footer-box a {
+    color: #fff;
+}
+
+.footerlinks a {
+    display: inline-block;
+    width: 100px;
+    border-right: 1px solid #fff;
+}
+
+.footerlinks a:last-child {
+    border-right: 0;
+}
