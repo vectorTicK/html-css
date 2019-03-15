@@ -63,6 +63,4 @@
 
 ![功能需求](img/exercise7.PNG)
 
-实现：
-
-page.html
+实现：page.html
