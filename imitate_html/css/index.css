@@ -1,0 +1,224 @@
+.body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nav {
+    height: 50px;
+    padding: 10px 0;
+    background: #00AAD4;
+}
+
+.nav .nav-con {
+    margin: 0 auto;
+    width: 1200px;
+    height: 100%;
+}
+
+.nav .nav-con a {
+    height: 50px;
+    color: #f0f0f0;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.nav .nav-con a:hover {
+    text-decoration: underline;
+    color: #052a4b;
+}
+
+.nav .nav-con a img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 42px;
+    height: 42px;
+}
+
+.nav .nav-con a span {
+    vertical-align: middle;
+}
+
+.nav ul {
+    float: right;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav .nav-con ul li a {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.banner {
+    margin: 0 auto;
+    height: 500px;
+    border-bottom: 3px solid #00AAD4;
+    background: url('../img/nl4-banner.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-con {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.banner-con .welcom {
+    font-size: 60px;
+    color: #fff;
+    /* font-weight: bold; */
+    padding: 30px 0;
+}
+
+.banner-left {
+    float: left;
+    width: 40%;
+}
+
+.banner-left img {
+    max-width: 90%;
+    background-color: #fff;
+    padding: 4px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.banner-right {
+    float: right;
+    width: 50%;
+}
+
+.banner-right .p1 {
+    font-size: 21px;
+    line-height: 1.42;
+    color: white;
+    text-align: justify;
+    margin-bottom: 15px;
+}
+
+.banner-right .p2 {
+    font-size: 18px;
+    line-height: 1.42;
+    color: white;
+    text-align: justify;
+    margin-bottom: 15px;
+    font-weight: 100;
+}
+
+.banner-right .dl {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    padding: 18px 28px;
+    background-color: #5cb85c;
+    vertical-align: middle;
+    margin-bottom: 15px;
+}
+
+.banner-right .link {
+    color: #fff;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.main {
+    margin: 25px auto;
+    width: 1200px;
+    height: 750px;
+}
+
+.main .title {
+    color: #00AAD4;
+    text-transform: uppercase;
+    font-size: 32px;
+    margin: 20px 0;
+}
+
+.main .title a {
+    color: #337ab7;
+}
+
+.main .title a:hover {
+    text-decoration: underline;
+}
+
+.main-left {
+    width: 45%;
+    float: left;
+}
+
+.main-right {
+    width: 50%;
+    float: right;
+}
+
+.newstitle {
+    display: inline-block;
+    color: #337ab7;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.newstitle:hover {
+    text-decoration: underline;
+}
+
+.newsdate {
+    display: block;
+    color: gray;
+    border-bottom: 1px dashed gray;
+    padding: 5px 0;
+}
+
+.newsinfo {
+    color: #333;
+    font-size: 1em;
+    height: 1.42;
+    margin: 10px 0;
+}
+
+.footer {
+    height: 181px;
+    border-top: 3px solid #f0f0f0;
+    background: #252530;
+    color: #808090;
+}
+
+.footer-con {
+    width: 1200px;
+    height: 100%;
+    margin: 20px auto;
+}
+
+.footer .box1 {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+.footer a {
+    color: #808090;
+}
+
+.footer h5 a {
+    color: #a0a0b0
+}
+
+.footer h5 {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #808090
+}
+
+.footer h6 {
+    font-size: 15px;
+    margin: 5px 0;
+}
+
+.footer a:hover {
+    color: #00AAD4;
+    text-decoration: underline;
+}

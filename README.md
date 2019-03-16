@@ -64,3 +64,11 @@
 ![功能需求](img/exercise7.PNG)
 
 实现：page.html
+
+# 开始仿网站
+
+1. 仿制：https://www.netlimiter.com/
+
+缩略图：
+
+![缩略图](imitate_html/img/NetLimiter.png)
