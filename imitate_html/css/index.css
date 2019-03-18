@@ -91,6 +91,10 @@
     width: 50%;
 }
 
+.download {
+    display: flex;
+}
+
 .banner-right .p1 {
     font-size: 21px;
     line-height: 1.42;
@@ -114,7 +118,6 @@
     color: #fff;
     padding: 18px 28px;
     background-color: #5cb85c;
-    vertical-align: middle;
     margin-bottom: 15px;
 }
 
@@ -204,13 +207,13 @@
 }
 
 .footer h5 a {
-    color: #a0a0b0
+    color: #a0a0b0;
 }
 
 .footer h5 {
     font-size: 18px;
     margin: 10px 0;
-    color: #808090
+    color: #808090;
 }
 
 .footer h6 {
