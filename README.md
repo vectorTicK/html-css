@@ -71,4 +71,12 @@
 
 缩略图：
 
-![缩略图](imitate_html/img/NetLimiter.png)
+![缩略图](imitate-html/img/NetLimiter.png)
+
+
+2. 仿制VS Code官网： https://code.visualstudio.com/docs?start=true
+
+缩略图：
+
+![缩略图](imitate-html/img/VSCode.png)
+

@@ -1,0 +1,166 @@
+* {
+    font-family: "Segoe UI", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    height: 4em;
+    background-color: rgb(30, 30, 121);
+}
+
+.header-con {
+    display: flex;
+    align-items: baseline;
+    width: 970px;
+    height: 100%;
+    font-size: 1.67em;
+    color: aliceblue;
+}
+
+.header-logo {
+    color: aliceblue;
+}
+
+.header-logo:hover {
+    color: aliceblue;
+}
+
+.nav-links {
+    margin-left: 20px;
+    font-size: 0.75em;
+    color: #9d9d9d;
+}
+
+.nav-links:hover, .current-link {
+    color: #fff;
+}
+
+.nav-download {
+    display: inline-flex;
+    align-items: center;
+    font-size: 1rem;
+    height: 100%;
+    padding: 0 2em;
+    margin-left: auto;
+    margin-right: 20px;
+    background-color: green;
+    color: #fff;
+    font-weight: 600;
+}
+
+.page {
+    display: flex;
+    margin-top: 1em;
+    justify-content: center;
+}
+
+.page-con {
+    display: flex;
+    width: 970px;
+    height: 100%;
+    font-size: 1.33em;
+    color: #444;
+}
+
+.left {
+    margin-top: 2em;
+    width: 175px;
+    height: 375px;
+}
+
+.left li {
+    padding-left: 1em;
+    padding-bottom: 0.75em;
+    padding-top: 0.75em;
+    border-left: 1px solid #9d9d9d;
+}
+
+.left li:hover {
+    border-left: 1px solid #444;
+}
+
+.left li a {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #9d9d9d
+}
+
+.left li a:hover {
+    color: #444;
+}
+
+.center {
+    max-width: 620px;
+    padding: 0 1em;
+    flex: 1;
+}
+
+.right {
+    width: 175px;
+    height: 375px;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 100;
+    margin-bottom: 0.3em;
+}
+
+.started-info {
+    line-height: 1.6em;
+    text-align: justify;
+    margin-bottom: 1em;
+}
+
+.started-info a {
+    color: #0072be;
+}
+
+.started-info :hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.75em;
+    font-weight: 100;
+    margin: 0.3em 0;
+}
+
+.banner-pic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #e9e9e9;
+}
+
+.banner-pic img {
+    max-width: 590px;
+    height: auto;
+    margin: 1em;
+    border-radius: 5px;
+}
+
+.banner-pic h3 {
+    font-size: 1.25em;
+    margin: 0.75em 0;
+}
+
+.banner-pic p {
+    margin-bottom: 2em;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 144px;
+    height: 230px;
+    margin-bottom: 10px;
+    background-color: bisque;
+    box-shadow: 2px 4px 6px 2px rgba(50, 50, 50, 0.14);
+}

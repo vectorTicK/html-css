@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .MenuWrap {
+            display: flex;
+            align-items: center;
+            height: 50px;
+            background-color: black;
+            color: white;
+            padding: 0 1em;
+        }
+
+        a {
+            color: grey;
+            text-decoration: none;
+            font-size: 1em;
+            margin-left: 1em;
+        }
+
+        a:hover {
+            text-decoration: underline;
+            color: aliceblue;
+        }
+
+        .ListItem3 {
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        .InlineFlex {
+            height: 100px;
+            background-color: blueviolet;
+        }
+
+        .InlineFlex {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1em;
+            height: 120px;
+            width: 200px;
+            padding: 0 4px;
+            background-color: indigo;
+            text-decoration: none;
+            border-radius: 3px;
+            color: #ddd;
+        }
+
+        html {
+            margin: 0; padding: 0;
+            height: 100%;
+        }
+
+        body {
+            font-family: 'Oswald', sans-serif;
+            color: #ebebeb;
+            display: flex;
+            flex-direction: column;
+            min-height: 100%;
+            margin: 0; padding: 0;
+        }
+
+        .MainContent {
+            flex: 1;
+            color: #333;
+            padding: .5rem;
+        }
+
+        .Footer {
+            background-color: violet;
+            padding: .5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="MenuWrap">
+        <a href="#" class="ListItem1">Home</a>
+        <a href="#" class="ListItem2">About Us</a>
+        <a href="#" class="ListItem3">Products</a>
+        <a href="#" class="ListItem4">Policy</a>
+        <a href="#" class="LastItem">Contact Us</a>
+    </div>
+<p style="font-size:5em">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora cumque perferendis voluptatibus quaerat asperiores, saepe nulla, eum autem placeat amet porro itaque veniam expedita reprehenderit magni repudiandae facere neque alias?</p>
+    <p>Here is a sentence with a <a href="" class="InlineFlex">inline-flex link</a>.</p>
+    <div class="MainContent"> Here is a bunch of text up at the top. But there isn't enough content to push the footer
+        to
+        the bottom of the page. </div>
+    <div class="Footer"> However, thanks to flexbox, I've been put in my place. </div>
+
+</body>
+
+</html>
