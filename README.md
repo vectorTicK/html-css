@@ -79,4 +79,5 @@
 缩略图：
 
 ![缩略图](imitate-html/img/VSCode.png)
+![缩略图](imitate-html/img/vscode-copy.png)
 
